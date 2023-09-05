@@ -16,8 +16,11 @@
       window.$docsify = { 
         homepage:'README.md',
         themeColor: '#2b3a3b',
+        markdown: {
+          renderer: customMarkdownRenderer // 引入自定义的Markdown渲染器
+        }
       };
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.11.2/dist/docsify.min.js"></script>
   </body>
 </html>
