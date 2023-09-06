@@ -12,3 +12,6 @@
 
 # 操作系统笔记
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/OS/#/)***
+
+# 计算机网络笔记
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Computer-Network/#/)***
