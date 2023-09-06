@@ -15,3 +15,7 @@
 
 # 计算机网络笔记
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Computer-Network/#/)***
+
+# 编译原理笔记
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Compiler-Principle/#/)***
+
