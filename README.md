@@ -1,5 +1,5 @@
 # Studynotes-Online(USTC)
-> 存放部分在线学习笔记
+> 存放部分在线科大网络安全课程学习笔记，部分还在更新，供复习和预习()，禁止侵权。所有权为本人所有。
 
 # 数据库基础笔记
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Database-Basics/#/)***
