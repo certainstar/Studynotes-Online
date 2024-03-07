@@ -24,3 +24,9 @@
 
 # 网络安全协议笔记（正在更新）
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/NSP/#/)***
+
+# 大数据算法（正在更新）
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Big-data-algorithms/#/)***
+
+# 机器学习及安全应用（正在更新）
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Machine-Learning-and-its-Security-Applications/#/)***
