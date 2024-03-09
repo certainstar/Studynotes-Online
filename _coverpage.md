@@ -1,4 +1,4 @@
-![logo](_media/logo.png)
+
 
 # 在线笔记网站 <small>2.0</small>
 
@@ -10,3 +10,7 @@
 
 [GitHub](https://github.com/certainstar/Studynotes-Online/)
 [Get Started](README)
+
+![logo](_media/logo.png)
+
+![color](#34495e)
