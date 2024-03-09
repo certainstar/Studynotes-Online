@@ -1,4 +1,4 @@
-![logo](./img/封面.png)
+![logo](_media/logo.png)
 
 # 在线笔记网站 <small>2.0</small>
 
