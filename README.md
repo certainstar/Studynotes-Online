@@ -30,3 +30,6 @@
 
 # 机器学习及安全应用（正在更新）
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Machine-Learning-and-its-Security-Applications/#/)***
+
+# 数据建模与分析基础（正在更新）
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Fundamentals-of-Data-Modeling-and-Analysis/#/)***
