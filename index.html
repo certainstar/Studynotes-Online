@@ -12,10 +12,23 @@
   <style>
     body {
       font-family: 'Pacifico-Regular', cursive; /* 使用引入的字体 */
+      margin: 0; /* 清除默认的 body margin */
+    }
+    .background-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url(./_media/logo1.png);
+      background-size: cover;
+      filter: blur(0px); /* 对背景图片应用模糊效果 */
+      z-index: -1; /* 确保该层在所有内容底下 */
     }
   </style>
 </head>
 <body>
+  <div class="background-container"></div>
   <div id="app"></div>
   <script>
     window.$docsify = {
