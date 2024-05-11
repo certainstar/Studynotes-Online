@@ -27,7 +27,7 @@
 
 # 计算机安全笔记（已完结）
 
-> ***[点击here跳转笔记页面](https://forget-eve.github.io/Computer-Safety/#/)***
+> ***[点击here跳转笔记主页](https://forget-eve.github.io/Computer-Safety/#/)***
 
 # 网络安全协议笔记（正在更新）
 
