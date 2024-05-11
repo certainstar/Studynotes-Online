@@ -25,7 +25,7 @@
 
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Compiler-Principle/#/)***
 
-# 计算机安全笔记（正在更新）
+# 计算机安全笔记（已完结）
 
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Computer-Safety/#/)***
 
