@@ -29,7 +29,7 @@
 
 > ***[点击here跳转笔记主页](https://forget-eve.github.io/Computer-Safety/#/)***
 
-# 网络安全协议笔记（正在更新）
+# 网络安全协议笔记（已完结）
 
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/NSP/#/)***
 
@@ -44,3 +44,7 @@
 # 数据建模与分析基础（正在更新）
 
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Fundamentals-of-Data-Modeling-and-Analysis/#/)***
+
+# 软件安全与测试（正在更新）
+
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/Software-Security-and-Testing/#/)***
