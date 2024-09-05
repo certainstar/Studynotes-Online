@@ -52,3 +52,7 @@
 # 无线安全及其安全（正在更新）
 
 > ***[点击here跳转笔记页面](https://forget-eve.github.io/Wireless-Technology-and-its-Security/#/)***
+
+# Web信息处理与应用（正在更新）
+
+> ***[点击here跳转笔记页面](https://forget-eve.github.io/web-information-processing-and-application/#/)***
